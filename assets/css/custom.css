@@ -1,0 +1,14 @@
+.bicep image {
+    display: block;
+    margin: 2.5em 0;
+    width: 30%;
+}
+
+    .bicep image img {
+        width: 30%;
+    }
+
+.bicepredirect {
+display: block;
+margin: 0.5em 0 0 0;
+}
