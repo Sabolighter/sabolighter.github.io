@@ -10,13 +10,13 @@ Free to use but must tag me in project and show original post (github.com/saboli
 
 Follow me here:
 <br />
-facebook.com/sabolighte
+facebook.com/sabolighter
 <br />
-instagram.com
+instagram.com/
 <br />
-twitter.com/sabolighte
+twitter.com/sabolighter
 <br />
-github.com/sabolighte
+github.com/sabolighter
 <br />
 On discord: Sabolighter#6182
 <br />
